@@ -1,6 +1,5 @@
 sudo apt update
-sudo apt install python-tk -y
-sudo -H pip install Pillow
+sudo apt install fbi python-tk -y
 mv run.sh ~/
 mv app.py ~/
 cd ~
